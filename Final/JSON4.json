@@ -1,0 +1,61 @@
+{
+    "resume details": {
+        
+        "contacts": {
+            "Full Name": "Thorfinn Snorresson",
+            "Occupation": "student",
+            "Address": "Glaumbaer, Iceland",
+            "Email": "thorfinnkarsefni09@gmail.com",
+            "Facebook": "Thorfinn Snorresson",
+            "Number": "+354 321 0917",
+            "Github": "ThorfinnSnorresson"
+        },
+
+        "personal info": {  
+            "Age":"19 years old",
+            "Date of Birth":"December 25, 2002",
+            "Sex" : "Male",
+            "Civil Status":"Single",
+            "Nationality":"Icelandic",
+            "Religion":"Roman Catholic",
+            "Mother's Name":"Helga Thordarson",
+            "Father's Name":"Thors Thordarson"
+        },      
+
+        "profile" : {
+            "Profile":"Currently studying BS Computer Engineering program in The Sparrow Academy."
+        },
+
+        "educational background": {
+                "Tertiary": {
+                    "School": "The Sparrow Academy", 
+                    "Year": "2021 - present",
+                    "Currently": "currently First Year, taking BS in Computer Engineering"
+                },
+                "Secondary": {
+                    "Senior": {
+                            "School": "Hogwarts School of Witchcraft and Wizardry",
+                            "Year": "2019 - 2021", 
+                            "Awards":"Graduated With High Honors",
+                            "Strand": "STEM"
+                    },
+                    "Junior": {
+                    "School": "Hogwarts School of Witchcraft and Wizardry",
+                    "Year": "2015 - 2019",
+                    "Awards": "Moved up With Honors" 
+                    }
+                },
+                "Primary": {
+                    "School": "Xavier's School for Gifted Youngsters",
+                    "Year": "2009 - 2015",
+                    "Awards": "Graduated as Salutatorian"
+                }
+            
+        },
+
+        "interests and skills": {
+                "hobbies": "Play video games, sleep listen to music, watch movies/series, read light novels", 
+                "skills": "Speak fluent English, German, and Icelandic, Problem solver, Cooperative, Willing to learn"
+        }
+    }   
+}
