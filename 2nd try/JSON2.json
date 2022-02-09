@@ -1,0 +1,39 @@
+{
+
+    "contacts": {
+          "Full Name": "Thorfinn Snorresson",
+          "Occupation": "student",
+          "Address": "Glaumbaer, Iceland",
+          "Email": "thorfinnkarsefni09@gmail.com",
+          "Facebook": "Thorfinn Snorresson",
+          "Number": "+354 321 0917",
+          "Github": "ThorfinnSnorresson"
+     },
+
+    "personal info": {  
+          "Age":"19 years old",
+          "Date of Birth":"December 25, 2002",
+          "Sex" : "Male",
+          "Civil Status":"Single",
+          "Nationality":"Icelandic",
+          "Religion":"Roman Catholic",
+          "Mother's Name":"Helga Thordarson",
+          "Father's Name":"Thors Thordarson"
+    },      
+
+    "educational background": {
+    "Tertiary School": "The Sparrow Academy", 
+    "Tertiary School Currently": "currently First Year, taking BS in Computer Engineering", 
+    "Secondary Senior High School": "Hogwarts School of Witchcraft and Wizardry", 
+    "Secondary Senior High School Awards":"Graduated With High Honors",
+    "Secondary Senior High School Strand": "STEM",
+    "Secondary Junior High School": "Hogwarts School of Witchcraft and Wizardry", 
+    "Primary Elementary School": "Xavier's School for Gifted Youngsters"
+   },
+
+   "interests and skills": {
+    "hobbies": "Play video games, sleep listen to music, watch movies/series, read light novels", 
+    "skills": "Speak fluent English, German, and Icelandic, Problem solver, Cooperative, Willing to learn"
+   }
+
+}
